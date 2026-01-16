@@ -32,6 +32,6 @@ We will be using the following:
     - Transform the column names to lowercase
     - Convert the data types
     - Create tables in postgres
-    - Load tables into Postgres
+    - Load tables into Postgres 
 - Run post-data migration checks
 - Generate validation report.
